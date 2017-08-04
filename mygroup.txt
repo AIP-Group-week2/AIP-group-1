@@ -1,2 +1,3 @@
 First change
 Second line change by Fulun
+New line added by Fulun for <same time editing> task...
