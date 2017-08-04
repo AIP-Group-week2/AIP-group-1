@@ -11,4 +11,8 @@ Second merge conflict
 
 merge conflict retrying
 
+<<<<<<< HEAD
 Third time conflict repeating test.. Fulun
+=======
+New method
+>>>>>>> 02887cb045f902fbfebaa1bd2ed82e3444ea0c55
