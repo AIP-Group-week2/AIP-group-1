@@ -5,3 +5,4 @@ New line added by Fulun for <same time editing> task...
 =======
 The third change happens
 >>>>>>> 0cb6cf3248884b665c11bf8cf5dd0871c4362c63
+Second merge conflict
